@@ -1,7 +1,6 @@
 # Full Stack Projects for Final Year
 
-Explore a curated set of functional Full Stack Projects designed for Computer Science final year students.  
-Each project comes with a well-documented backend built with Node.js to help you quickly start and focus on adding features.
+Explore a curated set of functional Full Stack Projects designed for Computer Science final year students. Each project comes with a well-documented backend built with Node.js to help you quickly start and focus on adding features.
 
 ## About
 This repository is created to support students and developers in building practical, hands-on full stack projects.  
